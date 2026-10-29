@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "root": "/mnt/data/security-projects/file-integrity-checker/samples/test_folder",
+  "created_utc": "2026-10-19T02:32:17.626903+00:00",
+  "files": {
+    "readme.txt": {
+      "sha256": "2be1721751abe033e672477fd951d5f08946d864bf19b8e67bb9996780138acd",
+      "size": 18,
+      "modified_utc": "2026-10-19T02:32:17.069106+00:00"
+    },
+    "nested/data.csv": {
+      "sha256": "2a351923a366e02902a36745929d0a0022b0b2130100accdff661d6d5b860365",
+      "size": 12,
+      "modified_utc": "2026-10-19T02:32:17.069106+00:00"
+    }
+  }
+}
